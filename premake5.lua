@@ -14,5 +14,5 @@ project "pugixml"
 
     includedirs
     {
-        "include"
+        "include/pugixml"
     }
