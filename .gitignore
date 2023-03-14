@@ -1,2 +1,8 @@
 /build/
 /.vscode/
+bin/
+intermediates/
+.vs/
+*.sln
+*.vcxproj
+*vcxproj.user
